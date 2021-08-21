@@ -1,0 +1,9 @@
+
+1. Header
+2. Slide
+3. Content
+   1. about the band
+   2. tour
+   3. contact
+   4. map
+4. Footer
